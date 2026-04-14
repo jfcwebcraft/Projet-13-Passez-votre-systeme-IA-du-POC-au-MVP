@@ -1,0 +1,48 @@
+# Dossier d'archives et travail personnel (non versionné)
+archive/
+docs/
+tests/
+Livraison/*/
+
+# Formats bureautiques sources (seuls les PDF officiels sont versionnés)
+*.docx
+*.pptx
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+*.egg
+.venv/
+venv/
+env/
+.pytest_cache/
+.ruff_cache/
+
+# Logs
+*.log
+
+# OS
+*.tmp
+*.bak
+
+# Build artifacts & temp
+.codex*
+tmp/
+.deepeval/
+
