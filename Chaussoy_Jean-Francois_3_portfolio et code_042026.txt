@@ -1,0 +1,40 @@
+LIVRABLE — PORTFOLIO PROFESSIONNEL ET DEPOTS GITHUB
+================================================================================
+Parcours Data Engineer — OpenClassrooms
+Candidat : Jean-Francois Chaussoy
+Date de livraison : Avril 2026
+Projet : Cadrage du passage d'un POC IA vers un MVP Cloud (Puls-Events)
+
+1. SITE WEB DU PORTFOLIO PROFESSIONNEL :
+https://jfc-webcraft.fr/
+
+2. PROFIL GITHUB PROFESSIONNEL DU CANDIDAT :
+https://github.com/jfcwebcraft
+
+3. DEPOT GITHUB DU PROJET 13 (MVP - CADRAGE, ARCHITECTURE ET LIVRABLES) :
+https://github.com/jfcwebcraft/Projet-13-Passez-votre-systeme-IA-du-POC-au-MVP
+
+4. DEPOT GITHUB DU PROJET 11 (POC RAG PULS-EVENTS DE REFERENCE) :
+https://github.com/jfcwebcraft/Projet-11-PulsEvents-RAG-Assistant-Culturel-Intelligent
+
+NOTE DE CONFIDENTIALITE ET SECRET PROFESSIONNEL :
+Conformement aux clauses de confidentialite et aux imperatifs de securite des
+systemes d'information (notamment pour les projets conduits en alternance au
+sein de la Communaute d'Agglomeration du Boulonnais : Projets 10 et 12),
+les depots de code et architectures internes associes sont maintenus sur des
+depots prives.
+
+RECAPITULATIF DES REALISATIONS DU PARCOURS DATA ENGINEER :
+- P1  : Decouvrez votre Formation de Data Engineer (Veille, methodologie, IA)
+- P2  : Analyse Exploratoire de Donnees Educatives (Academy EdTech - Pandas, Seaborn)
+- P3  : Conception et implementation de BDD Relationnelle (Laplace Immo - PostgreSQL)
+- P4  : Audit technique et conformite d'un environnement de donnees (SuperSmartMarket)
+- P5  : Migration de Donnees Medicales en NoSQL (MongoDB, Docker Compose)
+- P6  : Prediction Energetique de Batiments (Ville de Seattle - Scikit-learn, XGBoost)
+- P7  : Conception et Analyse de BDD NoSQL (NosCites - MongoDB, Polars, Power BI)
+- P8  : Infrastructure de Donnees Meteorologiques ELT (Forecast 2.0 GreenCoop)
+- P9  : Infrastructure Hybride Cloud, Spark et Redpanda (InduTechData - Big Data et Streaming)
+- P10 : Orchestration de Flux Budgetaires (Collectivite CAB - Kestra, Docker) [Prive]
+- P11 : Demonstrateur RAG pour evenements culturels (POC Puls-Events - Mistral AI, FAISS)
+- P12 : Plateforme d'Architecture de Donnees Budgetaires Automatisee (Collectivite CAB) [Prive]
+- P13 : Cadrage du passage d'un POC IA vers un MVP Cloud (Puls-Events - Azure, FastAPI)
